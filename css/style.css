@@ -264,3 +264,11 @@
 .footer .copyright{
     text-align: center;
 }
+
+/*--------------Ipad Adjustments ----------------*/
+@media only screen and (max-width: 768px){
+    .buttons{
+        margin-right: 0;
+        font-size: 15px;
+    }
+}
